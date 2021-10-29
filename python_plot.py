@@ -45,5 +45,5 @@ def read_and_plot():
             y_axis = []
 
 
-# write_data()
+write_data()
 read_and_plot()
